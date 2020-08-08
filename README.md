@@ -83,5 +83,27 @@
 </tbody>
 </table>
 
+## Hobbies
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>3D printing</center></b></span><br>
+<img src="https://img.icons8.com/color/50/000000/3d-printer.png"/>
+</td>
+   
+<td align="center" width="20%">
+<span><b><center>3D modelling</center></b></span><br>
+<img src="https://img.icons8.com/color/50/000000/3d-scale.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Robotics and Automation</center></b></span><br>
+<img src="https://img.icons8.com/color/50/000000/robot.png"/></td>
+</tr>
+</table>
+</tbody>
+
 ## Stats
 ![Harry-Rogers github stats](https://github-readme-stats.vercel.app/api?username=Harry-Rogers&theme=dark&show_icons=true)
