@@ -1,5 +1,5 @@
 ## About me
-### Hi my name is Harry, I am a postgraduate computer scientist with a keen interest in robotics and engineering. I'm part of the AgriFoRwArdS CDT, currently working on my Msc Robotics and Autonomous Systems. 
+### Hi my name is Harry, I am a postgraduate computer scientist with a keen interest in robotics and engineering. I'm part of the AgriFoRwArdS CDT, currently working on my MSc Robotics and Autonomous Systems. 
 
 ## Contact me
 [![website](https://img.icons8.com/android/50/000000/domain.png)](https://harry-rogers.github.io/) 
