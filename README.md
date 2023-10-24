@@ -2,7 +2,6 @@
 ### Hi my name is Harry, I am a postgraduate computer scientist with a keen interest in robotics and engineering. I'm part of the AgriFoRwArdS CDT, currently working on my PhD in Robotics and Autonomous Systems. 
 
 ## Contact me
-[![website](https://img.icons8.com/fluent/50/000000/domain.png)](https://harry-rogers.github.io/) 
 [![github](https://img.icons8.com/fluent/50/000000/github.png)](https://github.com/Harry-Rogers) 
 [![email](https://img.icons8.com/fluent/50/000000/email.png)](mailto:Harrywrogers123@gmail.com)
 [![orcidiD](https://img.icons8.com/windows/50/000000/orcid.png)](https://orcid.org/0000-0003-3227-5677)
