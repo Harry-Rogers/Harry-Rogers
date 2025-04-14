@@ -6,8 +6,8 @@
 - [Awarded EPSRC Funded PhD](https://agriforwards-cdt.blogs.lincoln.ac.uk/cdt-personal/harry-rogers/)
 
 ## Current Role
-- Postdoctoral Researcher at the University of Oxford, Noble Group at IBME
-- Working on HAIC systems in medical Imaging
+- Postdoctoral Researcher at the University of Oxford, Noble Group at the Institute of Biomedical Engineering
+- Working on Human-AI Collaboration systems in medical Imaging
 
 
 ## Selected Publications
