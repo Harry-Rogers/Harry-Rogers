@@ -1,110 +1,24 @@
-## About me
-### Hi my name is Harry, I am a postgraduate computer scientist with a keen interest in robotics and engineering. I'm part of the AgriFoRwArdS CDT, currently working on my PhD in Robotics and Autonomous Systems. 
+# About
+- ML PhD with experience in eXplainable AI with theory and application
+- Extensive use of Python, PyTorch with various ML technologies including ViTs, VLMs, LLMs and explainability
+- Multiple first author ML award winning and nominated publications in national and international venues
+- Experience leading and collaborating on team-based research projects with interdisciplinary teams
+- [Awarded EPSRC Funded PhD](https://agriforwards-cdt.blogs.lincoln.ac.uk/cdt-personal/harry-rogers/)
 
-## Contact me
-[![github](https://img.icons8.com/fluent/50/000000/github.png)](https://github.com/Harry-Rogers) 
-[![email](https://img.icons8.com/fluent/50/000000/email.png)](mailto:Harrywrogers123@gmail.com)
-[![orcidiD](https://img.icons8.com/windows/50/000000/orcid.png)](https://orcid.org/0000-0003-3227-5677)
-[![linkedin](https://img.icons8.com/fluent/50/000000/linkedin.png)](https://www.linkedin.com/in/harry-rogers-9832641aa/)
+## Current Role
+- Postdoctoral Researcher at the University of Oxford, Noble Group at IBME
+- Working on HAIC systems in medical Imaging
 
-## Experience using
-<br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span><br>
-<img src="https://img.icons8.com/color/50/000000/python.png"/>
-</td>
-   
-<td align="center" width="20%">
-<span><b><center>C#</center></b></span><br>
-<img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
-</td>
 
-<td align="center" width="20%">
-<span><b><center>C++</center></b></span><br>
-<img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
-</td>
-</tr>
+## Selected Publications
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span><br>
-<img src="https://img.icons8.com/nolan/50/matlab.png"/>
-</td>
+| Title | Venue | Notes |
+|-------|-------|-------|
+| [Evaluating the Use of Interpretable Quantized Convolutional Neural Networks for Resource-Constrained Deployment](https://www.scitepress.org/Link.aspx?doi=10.5220/0012231900003598) | KDIR23 | **Best Conference Paper** |
+| [Advancing precision agriculture: domain-specific augmentations and robustness testing for convolutional neural networks in precision spraying evaluation](https://link.springer.com/article/10.1007/s00521-024-10142-0) | Neural Computing and Applications | |
+| [An Automated Precision Spraying Evaluation System](https://link.springer.com/chapter/10.1007/978-3-031-43360-3_3) | TAROS | **Nominated Best Application Paper** |
 
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span><br>
-<img src="https://img.icons8.com/nolan/50/sql.png"/>
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Visual Studio</center></b></span><br>
-<img src="https://img.icons8.com/color/50/000000/visual-studio.png"/>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Linux</center></b></span><br>
-<img src="https://img.icons8.com/color/50/000000/linux.png"/>
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Windows 10</center></b></span><br>
-<img src="https://img.icons8.com/color/50/000000/windows-10.png"/>
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Raspberry Pi</center></b></span> <br>
-<img src="https://img.icons8.com/color/50/000000/raspberry-pi.png"/>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> <br>
-<img src="https://img.icons8.com/color/50/000000/html-5.png"/>
-</td>
-  
-<td align="center" width="20%">
-<span><b><center>CSS</center></b></span> <br>
-<img src="https://img.icons8.com/color/50/000000/css3.png"/>
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Javascript</center></b></span> <br>
-<img src="https://img.icons8.com/color/50/000000/javascript-logo-1.png"/>
-</td>
-</tr>
-
-</tr>
-</tbody>
-</table>
-
-## Hobbies
-<br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><b><center>3D printing</center></b></span><br>
-<img src="https://img.icons8.com/color/50/000000/3d-printer.png"/>
-</td>
-   
-<td align="center" width="20%">
-<span><b><center>3D modelling</center></b></span><br>
-<img src="https://img.icons8.com/color/50/000000/3d-scale.png"/>
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Robotics and Automation</center></b></span><br>
-<img src="https://img.icons8.com/color/50/000000/robot.png"/></td>
-</tr>
-</table>
-</tbody>
-
-## Stats
-![Harry-Rogers github stats](https://github-readme-stats.vercel.app/api?username=Harry-Rogers&theme=dark&show_icons=true)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Rogers&layout=compact&hide=visualbasic)](https://github.com/Harry-Rogers/github-readme-stats)
+### Contact
+- [ORCID](https://orcid.org/0000-0003-3227-5677)
+- [Email](mailto:Harrywrogers123@gmail.com)
+- [Google Scholar](https://scholar.google.com/citations?user=sPwcwvMAAAAJ&hl=en&oi=ao)
